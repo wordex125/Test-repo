@@ -5,8 +5,6 @@ And here comes another change
 If anyone else would try to do anything to this repo, good luck, that's like one of the most useless ones out there
 
 this is the line at the end
-<<<<<<< HEAD
 
 sdkgjsdkgjskdjgkjs
-=======
->>>>>>> 7f1d4c03eabf8de5e07e54024b1522e3d86a8883
+
